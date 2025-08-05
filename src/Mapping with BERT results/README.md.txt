@@ -1,0 +1,1 @@
+This code uses the BERT model to cluster work-only unique samples and map them to O*NET task using GPT-4o-mini. Mapping statistics such as the percentage of a occupation using GPT is printed. 

@@ -1,0 +1,1 @@
+We train and test several ml models including logistic regression, SVM, XGBoost with a labeled dataset of 500 work-related samples, in terms of the performance of classifying work-related samples in all samples. "Text-embedding-3-large" is used for embedding for training and test samples. 

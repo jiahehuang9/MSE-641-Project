@@ -1,0 +1,1 @@
+This code uses the BERT model to cluster work-related samples, makes visualization, returns evaluation metrics, and provides some examples for each cluster. Install required package and load corresponding dataset to run the code.
